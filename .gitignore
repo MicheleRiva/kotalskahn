@@ -1,1 +1,5 @@
+# I'm currently working with RubyMine
 .idea
+
+#I don't want to include my log file
+log.txt
