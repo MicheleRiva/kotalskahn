@@ -6,13 +6,13 @@ Simple Ruby port scanner.
 Install KS with using GIT
 
 ```sh
-$ git clone https://github.com/MicheleRiva/kotalskahn.git
+$ git clone https://github.com/MicheleRiva/KotalSkahn.git
 ```
 
 Then enter the directory and start up KS
 
 ```sh
-$ cd kotalskahn
+$ cd KotalSkahn
 $ ruby ks.rb <ip address>
 ```
 
